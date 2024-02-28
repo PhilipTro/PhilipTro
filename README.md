@@ -1,6 +1,7 @@
 ### Hello world 👋
 
-👨‍💻 About Me
+👨‍💻 About Me:
+
 I am an information systems and business student who has studied at both Lund and Uppsala.
     
 - 👨‍🎓 Graduating with a Bachelor's in Information Systems Design in June 2024, I am on the lookout for software development opportunities.
