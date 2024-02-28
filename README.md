@@ -10,3 +10,5 @@ I am an information systems and business student who has studied at both Lund an
 - ⚡ In my free time I try to improve my coding knowledge within different fields and finding new interesting topics within tech.
 - 📫 How to reach me: philiptrozelli@gmail.com
 
+🛠️ Languages and Tools:
+Java, Python CSS3, HTML5, SQL
