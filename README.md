@@ -33,3 +33,8 @@ I am an information systems and business student <img src="https://media.giphy.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhilipTro&theme=dark&background=000000)](https://git.io/streak-stats)
