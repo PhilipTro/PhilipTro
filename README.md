@@ -33,6 +33,9 @@ I am an information systems and business student <img src="https://media.giphy.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-plain.svg" title="UML" alt="UML" width="40" height="40"/>&nbsp;
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.k-t4Ru0f9TatPAERp-j2FgAAAA%26pid%3DApi&f=1&ipt=4805c6080ee569fe919b9cfea3221d02ec1a099722532a4c76e32355a24f0477&ipo=images " title="BPMN" alt="BPMN" width="40" height="40"/>&nbsp;
+  
+
 
 </div>
 
