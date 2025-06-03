@@ -42,4 +42,4 @@ I am an student in computer- and systems science as well as business <img src="h
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PhilipTro&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PhilipTro)](https://git.io/streak-stats)
