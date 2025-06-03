@@ -12,11 +12,11 @@
 ### :man_technologist: About Me :
 I am an information systems and business student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  who has studied at both Lund and Uppsala.
 
--👨‍🎓 Graduating with a Bachelor's in Information Systems Design in June 2024, I am on the lookout for software development opportunities.
+-👨‍🎓 Graduated with a Bachelor's in Information Systems Design in november 2024, I am on the lookout for software development opportunities as well as opportunities within data analysis and data science.
 
--🌱 Currently writing my thesis, and improving my knowledge within the .NET framework.
+-🌱 Currently upskilling within data science. 
 
--🤔 I’m looking for help with finding new and exciting oppurtunities within software development.
+-🤔 I am currently actively searching for opportunities within software development, data analysis, data science or business analysis. 
 
 -⚡ In my free time I try to improve my coding knowledge within different fields and finding new interesting topics within tech.
 
