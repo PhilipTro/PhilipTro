@@ -10,7 +10,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am an student in computer- and systems science as well as business <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  who has studied at both Lund and Uppsala.
+I am an student in data science as well as well as business & economics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  who has studied at both Lund and Uppsala.
 
 -👨‍🎓 Graduated with a Bachelor's in Computer- and systems science in november 2024, I am on the lookout for software development opportunities as well as opportunities within data analysis and data science.
 
